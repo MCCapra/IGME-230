@@ -23,7 +23,7 @@ is smaller than him to gain their strength and become bigger. Join Gerald on his
 Think of Feeding Frenzy but with a twinge more cartoony and a lot more not kid friendly. The idea is that as Gerald gets bigger the
 game evolves from a frenzy game to a slaughter, ramping up the nore gruesome aspects of life.
 
-![Blizzard Ready UI/UX Art](https://github.com/MCCapra/IGME-230/new/master/FishInTheSea.png "Blizzard Ready UI/UX Art")
+![Blizzard Ready UI/UX Art](https://github.com/MCCapra/IGME-230/blob/master/FishInTheSea.png "Blizzard Ready UI/UX Art")
 
 #####Above picture is not final design of main menu, this is just a place holder
 
