@@ -3,7 +3,6 @@
 The game of aquatic life and hunger. Play as a fish who's just really really hungry
 
 # Proposal
-## Proposal
 ### Elevator Pitch
 It's feeding frenzy meets poor comic relief. In this deep sea game of a dog eat dog world avoid the big fish while mercilessly devouring
 smaller fish in an ultimately futile attempt to become the biggest fish in the sea.
@@ -40,7 +39,6 @@ Controls:
 ### Player Integration
 There will be instructions on the main screen explaining the controls and mechanics.
 
-## About Me
-### About me
+# About Me
 I'm a third year game design and development major focusing on Gameplay Programming and UI/UX Developement. I've been recently getting
 into developing on the web as well as developing my skills withg C++.
